@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+}
+button {
+  margin-top: 10px;
+}
+#JS, #JL, #NK, #CL, #DT {
+  display: none;
+}
+img {
+  width: 400px;
+  /* height: 400px; */
+}
+
